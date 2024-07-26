@@ -1,3 +1,7 @@
+Name- krishna kumar 
+project -Customer segmentation analysis to improve conversion
+
+
 Task 1: Data Cleaning and Importing
 Data Cleaning:
 
